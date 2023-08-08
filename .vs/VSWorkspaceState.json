@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\customScripts",
+    "\\defaultScripts"
   ],
-  "SelectedNode": "\\C:\\Users\\Patrick Roberts\\Source\\Repos\\rustyHIDScripts",
   "PreviewInSolutionExplorer": false
 }
