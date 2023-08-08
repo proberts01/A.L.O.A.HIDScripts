@@ -1,4 +1,4 @@
-# rustyHIDScripts Repository
+# HIDScripts Repository
 
 Welcome to the HIDScripts repository!
 
