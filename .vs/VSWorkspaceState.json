@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\customScripts",
-    "\\defaultScripts"
+    "\\customScripts\\prank",
+    "\\customScripts\\prank\\Alien Message From Computer"
   ],
+  "SelectedNode": "\\customScripts\\prank\\Alien Message From Computer\\alienPython.py",
   "PreviewInSolutionExplorer": false
 }
