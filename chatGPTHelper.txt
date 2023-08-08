@@ -1,0 +1,58 @@
+Sure! Here's a copy and paste prompt that you can use to teach me the new scripting language, HIDScript:
+
+Teaching HIDScript
+
+HIDScript Overview:
+
+HIDScript is a new scripting language designed for automating tasks using Human Interface Devices (HID) like USB Rubber Ducky or P4wnP1 A.L.O.A. It's inspired by JavaScript and aims to provide a user-friendly syntax for simulating key presses, performing delays, and handling repetitions.
+
+Syntax and Features:
+
+Delays: Replace DELAY with delay(x);, where 'x' is the delay time in milliseconds.
+
+Key Presses: Use press("KEY"); to simulate pressing a single key or button.
+
+Strings: Replace STRING "text"; with type("text"); to simulate typing a string.
+
+Enter Key: Replace ENTER with press("ENTER"); to simulate pressing the Enter key.
+
+Tab Key: Replace TAB with type("TAB"); to simulate pressing the Tab key.
+
+Repeat: Instead of REPEAT x, use JavaScript-like for loops for repeating commands. For example, use:
+
+css
+Copy code
+for (let i = 0; i < x; i++) {
+  // Command to repeat
+}
+Example: Converting DuckyScript to HIDScript
+
+DuckyScript:
+
+vbnet
+Copy code
+DELAY 1000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hello, HIDScript!
+ENTER
+HIDScript:
+
+scss
+Copy code
+delay(1000);
+press("GUI r");
+delay(500);
+type("notepad");
+press("ENTER");
+delay(1000);
+type("Hello, HIDScript!");
+press("ENTER");
+Your Task:
+
+Please use this prompt to teach me more about HIDScript or convert existing DuckyScripts to HIDScript. You can show examples, explain new concepts, and provide any additional information about the language. I'll be here to learn and assist you!
+
+Feel free to copy and paste this prompt to start teaching me about HIDScript. You can continue from where we left off or introduce new concepts as you see fit. I'm excited to learn more and help you with HIDScript-related tasks!
